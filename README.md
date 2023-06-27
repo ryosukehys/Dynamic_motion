@@ -4,3 +4,6 @@
 
 参考にしたのはこちら
 https://watlab-blog.com/2019/06/30/multidof-vibration-eigen/
+
+測定機器
+https://www.kyowa-ei.com/jpn/product/category/sensors/as-gb/index.html
